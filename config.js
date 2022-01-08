@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hello Cherry',
-    introDesc: 'Em có nghe thấy anh nói hongg?'
+    introDesc: 'Em có nghe thấy anh nói hongg?',
     btnIntro: 'Say Yes or No',
     title: 'Phải chăng em đã buồn ngủ rồi ư?',
     desc: 'Chắc vì anh đi loanh quanh trong tâm trí em cả ngày rồi ',
